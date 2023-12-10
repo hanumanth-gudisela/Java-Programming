@@ -8,6 +8,6 @@ public class PrintSumOfAll {
         int num = scan.nextInt();
         while(num!=0)
             num = scan.nextInt();
-        System.out.println("\nProgram Closed!");
+        System.out.println("Program Closed!");
     }
 }
